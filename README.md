@@ -1,2 +1,2 @@
 # JEECode
-Java EE code repository
+Java EE code repository. Just a test
